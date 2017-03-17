@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">AsyncTaskApp</string>
+
+    <string name="action_intentService">IntentService</string>
+    <string name="action_task">task</string>
+    <string name="activity_content_service">测试intentService</string>
+    <string name="start_task_in_pool">开始任务在线程池中</string>
+    <string name="start_task_in_handler">开始任务在Handler依附的线程中</string>
+    <string name="tips">执行结果可以看输出日志</string>
+
 </resources>
